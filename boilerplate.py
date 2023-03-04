@@ -1,11 +1,10 @@
-from multiprocessing
-import Process
+from multiprocessing import Process
 import os
-import socket from _thread
-import *
+import socket
+from _thread import *
+import time
 import threading
-import time from threading
-import Thread
+from threading import Thread
 import random
 
 
@@ -58,7 +57,12 @@ def machine(config):
   global code
   # print(config)
   init_thread = Thread(target = init_machine, args = (config, ))
-  init_thread.start() # add delay to initialize the server - side logic on all processes time.sleep(5)# extensible to multiple producers prod_thread = Thread(target = producer, args = (config[2], )) prod_thread.start()
+  init_thread.start() 
+  # add delay to initialize the server - side logic on all processes
+  time.sleep(5)
+  # extensible to multiple producers
+  prod_thread = Thread(target = producer, args = (config[2], ))
+  prod_thread.start()
 
   while True:
     code = random.randint(1, 3)
