@@ -78,6 +78,11 @@ def machine(config):
   config.append(os.getpid())
   # print(config)
 
+  # initialize clock rate
+  ticks_per_sec = random.randint(1, 7)
+  clock_rate = 1.0 / ticks_per_sec # number of seconds before repeating
+  print("clock rate:", clock_rate, "; ticks per sec:", ticks_per_sec)
+
   init_thread = Thread(target = init_machine, args = (config, ))
   init_thread.start() 
   # add delay to initialize the server - side logic on all processes
@@ -86,8 +91,11 @@ def machine(config):
   prod_thread = Thread(target = producer, args = (config[2], ))
   prod_thread.start()
 
+  starttime = time.time()
   while True:
     code = random.randint(1, 10)
+    # loop every clock_rate seconds
+    time.sleep(clock_rate - ((time.time() - starttime) % 60.0))
 
 
 if __name__ == '__main__':
