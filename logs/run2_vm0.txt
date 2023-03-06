@@ -1,0 +1,502 @@
+Internal event value 4 at global time Mon Mar  6 15:54:33 2023 and logical clock time 2.
+Received message "2" at global time Mon Mar  6 15:54:34 2023 and logical clock time 3. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:54:34 2023 and logical clock time 5.
+Internal event value 11 at global time Mon Mar  6 15:54:34 2023 and logical clock time 6.
+Internal event value 10 at global time Mon Mar  6 15:54:34 2023 and logical clock time 7.
+Internal event value 6 at global time Mon Mar  6 15:54:34 2023 and logical clock time 8.
+Received message "7" at global time Mon Mar  6 15:54:34 2023 and logical clock time 8. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:54:34 2023 and logical clock time 10.
+Internal event value 10 at global time Mon Mar  6 15:54:35 2023 and logical clock time 11.
+Internal event value 4 at global time Mon Mar  6 15:54:35 2023 and logical clock time 12.
+Received message "11" at global time Mon Mar  6 15:54:35 2023 and logical clock time 12. Message queue length: 0
+Received message "12" at global time Mon Mar  6 15:54:35 2023 and logical clock time 13. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:54:35 2023 and logical clock time 15.
+Internal event value 11 at global time Mon Mar  6 15:54:35 2023 and logical clock time 16.
+Internal event value 11 at global time Mon Mar  6 15:54:35 2023 and logical clock time 17.
+Internal event value 10 at global time Mon Mar  6 15:54:36 2023 and logical clock time 18.
+Received message "17" at global time Mon Mar  6 15:54:36 2023 and logical clock time 18. Message queue length: 0
+Received message "18" at global time Mon Mar  6 15:54:36 2023 and logical clock time 19. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:54:36 2023 and logical clock time 21.
+Internal event value 8 at global time Mon Mar  6 15:54:36 2023 and logical clock time 23.
+Internal event value 9 at global time Mon Mar  6 15:54:36 2023 and logical clock time 24.
+Internal event value 7 at global time Mon Mar  6 15:54:37 2023 and logical clock time 25.
+Internal event value 8 at global time Mon Mar  6 15:54:37 2023 and logical clock time 28.
+Internal event value 6 at global time Mon Mar  6 15:54:37 2023 and logical clock time 29.
+Internal event value 11 at global time Mon Mar  6 15:54:37 2023 and logical clock time 30.
+Internal event value 6 at global time Mon Mar  6 15:54:37 2023 and logical clock time 31.
+Internal event value 5 at global time Mon Mar  6 15:54:38 2023 and logical clock time 33.
+Internal event value 9 at global time Mon Mar  6 15:54:38 2023 and logical clock time 35.
+Internal event value 5 at global time Mon Mar  6 15:54:38 2023 and logical clock time 36.
+Internal event value 9 at global time Mon Mar  6 15:54:38 2023 and logical clock time 37.
+Internal event value 7 at global time Mon Mar  6 15:54:39 2023 and logical clock time 38.
+Internal event value 5 at global time Mon Mar  6 15:54:39 2023 and logical clock time 39.
+Internal event value 4 at global time Mon Mar  6 15:54:39 2023 and logical clock time 41.
+Internal event value 11 at global time Mon Mar  6 15:54:39 2023 and logical clock time 42.
+Internal event value 11 at global time Mon Mar  6 15:54:39 2023 and logical clock time 43.
+Internal event value 9 at global time Mon Mar  6 15:54:39 2023 and logical clock time 44.
+Internal event value 7 at global time Mon Mar  6 15:54:40 2023 and logical clock time 45.
+Internal event value 6 at global time Mon Mar  6 15:54:40 2023 and logical clock time 47.
+Received message "46" at global time Mon Mar  6 15:54:40 2023 and logical clock time 47. Message queue length: 0
+Received message "47" at global time Mon Mar  6 15:54:40 2023 and logical clock time 48. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:54:40 2023 and logical clock time 51.
+Received message "50" at global time Mon Mar  6 15:54:41 2023 and logical clock time 51. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:54:41 2023 and logical clock time 53.
+Internal event value 9 at global time Mon Mar  6 15:54:41 2023 and logical clock time 54.
+Received message "55" at global time Mon Mar  6 15:54:41 2023 and logical clock time 56. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:41 2023 and logical clock time 58.
+Received message "57" at global time Mon Mar  6 15:54:42 2023 and logical clock time 58. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:54:42 2023 and logical clock time 61.
+Internal event value 5 at global time Mon Mar  6 15:54:42 2023 and logical clock time 62.
+Internal event value 10 at global time Mon Mar  6 15:54:42 2023 and logical clock time 63.
+Internal event value 7 at global time Mon Mar  6 15:54:42 2023 and logical clock time 64.
+Internal event value 9 at global time Mon Mar  6 15:54:43 2023 and logical clock time 66.
+Internal event value 10 at global time Mon Mar  6 15:54:43 2023 and logical clock time 67.
+Internal event value 8 at global time Mon Mar  6 15:54:43 2023 and logical clock time 68.
+Internal event value 5 at global time Mon Mar  6 15:54:43 2023 and logical clock time 70.
+Internal event value 8 at global time Mon Mar  6 15:54:43 2023 and logical clock time 71.
+Received message "70" at global time Mon Mar  6 15:54:44 2023 and logical clock time 71. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:44 2023 and logical clock time 73.
+Received message "72" at global time Mon Mar  6 15:54:44 2023 and logical clock time 73. Message queue length: 0
+Received message "32" at global time Mon Mar  6 15:54:44 2023 and logical clock time 75. Message queue length: 0
+Internal event value 10 at global time Mon Mar  6 15:54:44 2023 and logical clock time 77.
+Internal event value 10 at global time Mon Mar  6 15:54:44 2023 and logical clock time 78.
+Received message "33" at global time Mon Mar  6 15:54:45 2023 and logical clock time 78. Message queue length: 0
+Received message "78" at global time Mon Mar  6 15:54:45 2023 and logical clock time 79. Message queue length: 0
+Received message "81" at global time Mon Mar  6 15:54:45 2023 and logical clock time 82. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:46 2023 and logical clock time 86.
+Internal event value 7 at global time Mon Mar  6 15:54:46 2023 and logical clock time 87.
+Received message "86" at global time Mon Mar  6 15:54:46 2023 and logical clock time 87. Message queue length: 0
+Internal event value 10 at global time Mon Mar  6 15:54:46 2023 and logical clock time 90.
+Internal event value 10 at global time Mon Mar  6 15:54:46 2023 and logical clock time 91.
+Internal event value 6 at global time Mon Mar  6 15:54:46 2023 and logical clock time 92.
+Received message "91" at global time Mon Mar  6 15:54:47 2023 and logical clock time 92. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:47 2023 and logical clock time 94.
+Internal event value 8 at global time Mon Mar  6 15:54:47 2023 and logical clock time 95.
+Internal event value 6 at global time Mon Mar  6 15:54:47 2023 and logical clock time 96.
+Internal event value 7 at global time Mon Mar  6 15:54:47 2023 and logical clock time 97.
+Internal event value 5 at global time Mon Mar  6 15:54:47 2023 and logical clock time 98.
+Internal event value 8 at global time Mon Mar  6 15:54:48 2023 and logical clock time 100.
+Received message "99" at global time Mon Mar  6 15:54:48 2023 and logical clock time 100. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:54:48 2023 and logical clock time 103.
+Internal event value 10 at global time Mon Mar  6 15:54:48 2023 and logical clock time 105.
+Internal event value 7 at global time Mon Mar  6 15:54:49 2023 and logical clock time 108.
+Internal event value 10 at global time Mon Mar  6 15:54:49 2023 and logical clock time 109.
+Received message "108" at global time Mon Mar  6 15:54:49 2023 and logical clock time 109. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:49 2023 and logical clock time 111.
+Internal event value 4 at global time Mon Mar  6 15:54:49 2023 and logical clock time 112.
+Internal event value 4 at global time Mon Mar  6 15:54:50 2023 and logical clock time 113.
+Received message "112" at global time Mon Mar  6 15:54:50 2023 and logical clock time 113. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:50 2023 and logical clock time 115.
+Received message "114" at global time Mon Mar  6 15:54:50 2023 and logical clock time 115. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:54:50 2023 and logical clock time 119.
+Internal event value 4 at global time Mon Mar  6 15:54:51 2023 and logical clock time 120.
+Internal event value 4 at global time Mon Mar  6 15:54:51 2023 and logical clock time 121.
+Internal event value 6 at global time Mon Mar  6 15:54:51 2023 and logical clock time 122.
+Internal event value 8 at global time Mon Mar  6 15:54:51 2023 and logical clock time 123.
+Internal event value 5 at global time Mon Mar  6 15:54:51 2023 and logical clock time 124.
+Internal event value 10 at global time Mon Mar  6 15:54:51 2023 and logical clock time 125.
+Internal event value 11 at global time Mon Mar  6 15:54:52 2023 and logical clock time 129.
+Internal event value 8 at global time Mon Mar  6 15:54:52 2023 and logical clock time 130.
+Internal event value 11 at global time Mon Mar  6 15:54:52 2023 and logical clock time 132.
+Internal event value 4 at global time Mon Mar  6 15:54:52 2023 and logical clock time 133.
+Received message "57" at global time Mon Mar  6 15:54:53 2023 and logical clock time 133. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:54:53 2023 and logical clock time 135.
+Received message "134" at global time Mon Mar  6 15:54:53 2023 and logical clock time 135. Message queue length: 1
+Received message "58" at global time Mon Mar  6 15:54:53 2023 and logical clock time 136. Message queue length: 0
+Received message "59" at global time Mon Mar  6 15:54:53 2023 and logical clock time 137. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:54:53 2023 and logical clock time 139.
+Internal event value 4 at global time Mon Mar  6 15:54:54 2023 and logical clock time 142.
+Internal event value 6 at global time Mon Mar  6 15:54:54 2023 and logical clock time 143.
+Internal event value 6 at global time Mon Mar  6 15:54:54 2023 and logical clock time 144.
+Received message "143" at global time Mon Mar  6 15:54:54 2023 and logical clock time 144. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:54:54 2023 and logical clock time 146.
+Internal event value 4 at global time Mon Mar  6 15:54:55 2023 and logical clock time 147.
+Internal event value 5 at global time Mon Mar  6 15:54:55 2023 and logical clock time 151.
+Received message "65" at global time Mon Mar  6 15:54:55 2023 and logical clock time 151. Message queue length: 0
+Internal event value 10 at global time Mon Mar  6 15:54:55 2023 and logical clock time 153.
+Received message "66" at global time Mon Mar  6 15:54:56 2023 and logical clock time 153. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:54:56 2023 and logical clock time 155.
+Internal event value 7 at global time Mon Mar  6 15:54:56 2023 and logical clock time 157.
+Internal event value 11 at global time Mon Mar  6 15:54:56 2023 and logical clock time 158.
+Internal event value 5 at global time Mon Mar  6 15:54:56 2023 and logical clock time 159.
+Received message "158" at global time Mon Mar  6 15:54:56 2023 and logical clock time 159. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:54:57 2023 and logical clock time 163.
+Internal event value 8 at global time Mon Mar  6 15:54:57 2023 and logical clock time 165.
+Internal event value 6 at global time Mon Mar  6 15:54:57 2023 and logical clock time 166.
+Internal event value 4 at global time Mon Mar  6 15:54:57 2023 and logical clock time 167.
+Internal event value 5 at global time Mon Mar  6 15:54:58 2023 and logical clock time 169.
+Internal event value 4 at global time Mon Mar  6 15:54:58 2023 and logical clock time 170.
+Received message "169" at global time Mon Mar  6 15:54:58 2023 and logical clock time 170. Message queue length: 0
+Received message "170" at global time Mon Mar  6 15:54:58 2023 and logical clock time 171. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:58 2023 and logical clock time 173.
+Received message "176" at global time Mon Mar  6 15:54:59 2023 and logical clock time 176. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:54:59 2023 and logical clock time 178.
+Received message "178" at global time Mon Mar  6 15:54:59 2023 and logical clock time 178. Message queue length: 0
+Internal event value 6 at global time Mon Mar  6 15:54:59 2023 and logical clock time 180.
+Internal event value 8 at global time Mon Mar  6 15:55:00 2023 and logical clock time 181.
+Received message "78" at global time Mon Mar  6 15:55:00 2023 and logical clock time 181. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:00 2023 and logical clock time 183.
+Internal event value 4 at global time Mon Mar  6 15:55:00 2023 and logical clock time 184.
+Internal event value 4 at global time Mon Mar  6 15:55:00 2023 and logical clock time 186.
+Internal event value 11 at global time Mon Mar  6 15:55:01 2023 and logical clock time 188.
+Received message "188" at global time Mon Mar  6 15:55:01 2023 and logical clock time 188. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:01 2023 and logical clock time 193.
+Received message "193" at global time Mon Mar  6 15:55:01 2023 and logical clock time 193. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:55:02 2023 and logical clock time 195.
+Internal event value 11 at global time Mon Mar  6 15:55:02 2023 and logical clock time 196.
+Internal event value 7 at global time Mon Mar  6 15:55:02 2023 and logical clock time 197.
+Internal event value 11 at global time Mon Mar  6 15:55:02 2023 and logical clock time 198.
+Received message "198" at global time Mon Mar  6 15:55:02 2023 and logical clock time 198. Message queue length: 0
+Received message "199" at global time Mon Mar  6 15:55:02 2023 and logical clock time 199. Message queue length: 0
+Internal event value 6 at global time Mon Mar  6 15:55:03 2023 and logical clock time 203.
+Internal event value 4 at global time Mon Mar  6 15:55:04 2023 and logical clock time 208.
+Received message "208" at global time Mon Mar  6 15:55:04 2023 and logical clock time 208. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:04 2023 and logical clock time 210.
+Internal event value 8 at global time Mon Mar  6 15:55:04 2023 and logical clock time 211.
+Received message "213" at global time Mon Mar  6 15:55:04 2023 and logical clock time 213. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:05 2023 and logical clock time 215.
+Internal event value 6 at global time Mon Mar  6 15:55:05 2023 and logical clock time 216.
+Internal event value 11 at global time Mon Mar  6 15:55:05 2023 and logical clock time 217.
+Internal event value 10 at global time Mon Mar  6 15:55:05 2023 and logical clock time 218.
+Internal event value 8 at global time Mon Mar  6 15:55:05 2023 and logical clock time 219.
+Internal event value 8 at global time Mon Mar  6 15:55:05 2023 and logical clock time 221.
+Internal event value 11 at global time Mon Mar  6 15:55:06 2023 and logical clock time 224.
+Internal event value 10 at global time Mon Mar  6 15:55:06 2023 and logical clock time 225.
+Internal event value 9 at global time Mon Mar  6 15:55:06 2023 and logical clock time 226.
+Internal event value 9 at global time Mon Mar  6 15:55:07 2023 and logical clock time 229.
+Internal event value 7 at global time Mon Mar  6 15:55:07 2023 and logical clock time 230.
+Internal event value 6 at global time Mon Mar  6 15:55:07 2023 and logical clock time 231.
+Internal event value 4 at global time Mon Mar  6 15:55:07 2023 and logical clock time 232.
+Internal event value 7 at global time Mon Mar  6 15:55:07 2023 and logical clock time 234.
+Internal event value 8 at global time Mon Mar  6 15:55:07 2023 and logical clock time 235.
+Internal event value 6 at global time Mon Mar  6 15:55:08 2023 and logical clock time 236.
+Received message "102" at global time Mon Mar  6 15:55:08 2023 and logical clock time 236. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:08 2023 and logical clock time 238.
+Internal event value 4 at global time Mon Mar  6 15:55:08 2023 and logical clock time 240.
+Internal event value 11 at global time Mon Mar  6 15:55:09 2023 and logical clock time 242.
+Internal event value 9 at global time Mon Mar  6 15:55:09 2023 and logical clock time 243.
+Internal event value 11 at global time Mon Mar  6 15:55:09 2023 and logical clock time 244.
+Internal event value 7 at global time Mon Mar  6 15:55:09 2023 and logical clock time 246.
+Internal event value 11 at global time Mon Mar  6 15:55:09 2023 and logical clock time 247.
+Received message "246" at global time Mon Mar  6 15:55:09 2023 and logical clock time 247. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:10 2023 and logical clock time 249.
+Internal event value 5 at global time Mon Mar  6 15:55:10 2023 and logical clock time 250.
+Internal event value 9 at global time Mon Mar  6 15:55:10 2023 and logical clock time 251.
+Internal event value 7 at global time Mon Mar  6 15:55:10 2023 and logical clock time 252.
+Received message "109" at global time Mon Mar  6 15:55:10 2023 and logical clock time 252. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:10 2023 and logical clock time 254.
+Received message "253" at global time Mon Mar  6 15:55:10 2023 and logical clock time 254. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:55:11 2023 and logical clock time 256.
+Internal event value 8 at global time Mon Mar  6 15:55:11 2023 and logical clock time 257.
+Internal event value 10 at global time Mon Mar  6 15:55:11 2023 and logical clock time 259.
+Received message "259" at global time Mon Mar  6 15:55:11 2023 and logical clock time 259. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:11 2023 and logical clock time 261.
+Internal event value 6 at global time Mon Mar  6 15:55:11 2023 and logical clock time 262.
+Received message "261" at global time Mon Mar  6 15:55:12 2023 and logical clock time 262. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:12 2023 and logical clock time 265.
+Received message "264" at global time Mon Mar  6 15:55:12 2023 and logical clock time 265. Message queue length: 1
+Received message "265" at global time Mon Mar  6 15:55:12 2023 and logical clock time 266. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:12 2023 and logical clock time 268.
+Internal event value 11 at global time Mon Mar  6 15:55:12 2023 and logical clock time 269.
+Internal event value 6 at global time Mon Mar  6 15:55:13 2023 and logical clock time 270.
+Internal event value 5 at global time Mon Mar  6 15:55:13 2023 and logical clock time 271.
+Internal event value 8 at global time Mon Mar  6 15:55:13 2023 and logical clock time 274.
+Received message "274" at global time Mon Mar  6 15:55:13 2023 and logical clock time 274. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:14 2023 and logical clock time 277.
+Internal event value 11 at global time Mon Mar  6 15:55:14 2023 and logical clock time 279.
+Internal event value 6 at global time Mon Mar  6 15:55:14 2023 and logical clock time 280.
+Internal event value 5 at global time Mon Mar  6 15:55:14 2023 and logical clock time 282.
+Received message "282" at global time Mon Mar  6 15:55:15 2023 and logical clock time 282. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:55:15 2023 and logical clock time 284.
+Internal event value 6 at global time Mon Mar  6 15:55:15 2023 and logical clock time 286.
+Internal event value 9 at global time Mon Mar  6 15:55:15 2023 and logical clock time 288.
+Internal event value 5 at global time Mon Mar  6 15:55:15 2023 and logical clock time 289.
+Received message "289" at global time Mon Mar  6 15:55:16 2023 and logical clock time 290. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:16 2023 and logical clock time 293.
+Internal event value 4 at global time Mon Mar  6 15:55:16 2023 and logical clock time 294.
+Internal event value 5 at global time Mon Mar  6 15:55:16 2023 and logical clock time 295.
+Internal event value 9 at global time Mon Mar  6 15:55:16 2023 and logical clock time 296.
+Internal event value 11 at global time Mon Mar  6 15:55:17 2023 and logical clock time 297.
+Internal event value 10 at global time Mon Mar  6 15:55:17 2023 and logical clock time 300.
+Internal event value 5 at global time Mon Mar  6 15:55:17 2023 and logical clock time 301.
+Internal event value 7 at global time Mon Mar  6 15:55:17 2023 and logical clock time 302.
+Received message "302" at global time Mon Mar  6 15:55:17 2023 and logical clock time 302. Message queue length: 0
+Received message "303" at global time Mon Mar  6 15:55:18 2023 and logical clock time 303. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:18 2023 and logical clock time 305.
+Internal event value 7 at global time Mon Mar  6 15:55:18 2023 and logical clock time 307.
+Internal event value 8 at global time Mon Mar  6 15:55:18 2023 and logical clock time 308.
+Internal event value 6 at global time Mon Mar  6 15:55:18 2023 and logical clock time 309.
+Received message "309" at global time Mon Mar  6 15:55:19 2023 and logical clock time 309. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:19 2023 and logical clock time 311.
+Internal event value 7 at global time Mon Mar  6 15:55:19 2023 and logical clock time 312.
+Received message "312" at global time Mon Mar  6 15:55:19 2023 and logical clock time 312. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:19 2023 and logical clock time 314.
+Internal event value 9 at global time Mon Mar  6 15:55:19 2023 and logical clock time 316.
+Internal event value 11 at global time Mon Mar  6 15:55:20 2023 and logical clock time 317.
+Internal event value 5 at global time Mon Mar  6 15:55:20 2023 and logical clock time 318.
+Internal event value 6 at global time Mon Mar  6 15:55:20 2023 and logical clock time 319.
+Internal event value 5 at global time Mon Mar  6 15:55:20 2023 and logical clock time 323.
+Internal event value 7 at global time Mon Mar  6 15:55:21 2023 and logical clock time 325.
+Internal event value 10 at global time Mon Mar  6 15:55:21 2023 and logical clock time 326.
+Received message "326" at global time Mon Mar  6 15:55:21 2023 and logical clock time 326. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:21 2023 and logical clock time 328.
+Received message "329" at global time Mon Mar  6 15:55:21 2023 and logical clock time 329. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:22 2023 and logical clock time 331.
+Internal event value 11 at global time Mon Mar  6 15:55:22 2023 and logical clock time 332.
+Internal event value 4 at global time Mon Mar  6 15:55:22 2023 and logical clock time 333.
+Received message "333" at global time Mon Mar  6 15:55:22 2023 and logical clock time 333. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:22 2023 and logical clock time 335.
+Internal event value 9 at global time Mon Mar  6 15:55:22 2023 and logical clock time 336.
+Internal event value 7 at global time Mon Mar  6 15:55:22 2023 and logical clock time 337.
+Internal event value 8 at global time Mon Mar  6 15:55:23 2023 and logical clock time 339.
+Internal event value 9 at global time Mon Mar  6 15:55:23 2023 and logical clock time 340.
+Internal event value 6 at global time Mon Mar  6 15:55:23 2023 and logical clock time 341.
+Internal event value 5 at global time Mon Mar  6 15:55:23 2023 and logical clock time 342.
+Received message "345" at global time Mon Mar  6 15:55:24 2023 and logical clock time 345. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:24 2023 and logical clock time 347.
+Internal event value 8 at global time Mon Mar  6 15:55:24 2023 and logical clock time 348.
+Internal event value 5 at global time Mon Mar  6 15:55:24 2023 and logical clock time 349.
+Internal event value 7 at global time Mon Mar  6 15:55:24 2023 and logical clock time 350.
+Internal event value 4 at global time Mon Mar  6 15:55:25 2023 and logical clock time 351.
+Internal event value 8 at global time Mon Mar  6 15:55:25 2023 and logical clock time 353.
+Internal event value 11 at global time Mon Mar  6 15:55:25 2023 and logical clock time 355.
+Internal event value 8 at global time Mon Mar  6 15:55:25 2023 and logical clock time 356.
+Internal event value 4 at global time Mon Mar  6 15:55:25 2023 and logical clock time 357.
+Internal event value 6 at global time Mon Mar  6 15:55:26 2023 and logical clock time 358.
+Internal event value 4 at global time Mon Mar  6 15:55:26 2023 and logical clock time 360.
+Internal event value 10 at global time Mon Mar  6 15:55:26 2023 and logical clock time 361.
+Internal event value 9 at global time Mon Mar  6 15:55:26 2023 and logical clock time 362.
+Internal event value 8 at global time Mon Mar  6 15:55:26 2023 and logical clock time 363.
+Internal event value 7 at global time Mon Mar  6 15:55:26 2023 and logical clock time 364.
+Internal event value 7 at global time Mon Mar  6 15:55:27 2023 and logical clock time 366.
+Received message "366" at global time Mon Mar  6 15:55:27 2023 and logical clock time 366. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:27 2023 and logical clock time 371.
+Internal event value 6 at global time Mon Mar  6 15:55:28 2023 and logical clock time 374.
+Internal event value 10 at global time Mon Mar  6 15:55:28 2023 and logical clock time 375.
+Internal event value 6 at global time Mon Mar  6 15:55:28 2023 and logical clock time 376.
+Internal event value 10 at global time Mon Mar  6 15:55:28 2023 and logical clock time 377.
+Internal event value 6 at global time Mon Mar  6 15:55:29 2023 and logical clock time 378.
+Internal event value 6 at global time Mon Mar  6 15:55:29 2023 and logical clock time 379.
+Internal event value 5 at global time Mon Mar  6 15:55:29 2023 and logical clock time 380.
+Internal event value 8 at global time Mon Mar  6 15:55:29 2023 and logical clock time 381.
+Internal event value 6 at global time Mon Mar  6 15:55:29 2023 and logical clock time 382.
+Internal event value 4 at global time Mon Mar  6 15:55:29 2023 and logical clock time 384.
+Internal event value 9 at global time Mon Mar  6 15:55:30 2023 and logical clock time 385.
+Received message "384" at global time Mon Mar  6 15:55:30 2023 and logical clock time 385. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:30 2023 and logical clock time 388.
+Internal event value 4 at global time Mon Mar  6 15:55:30 2023 and logical clock time 389.
+Internal event value 6 at global time Mon Mar  6 15:55:30 2023 and logical clock time 390.
+Received message "389" at global time Mon Mar  6 15:55:30 2023 and logical clock time 390. Message queue length: 0
+Received message "390" at global time Mon Mar  6 15:55:31 2023 and logical clock time 391. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:31 2023 and logical clock time 393.
+Internal event value 4 at global time Mon Mar  6 15:55:31 2023 and logical clock time 395.
+Internal event value 11 at global time Mon Mar  6 15:55:31 2023 and logical clock time 397.
+Internal event value 5 at global time Mon Mar  6 15:55:31 2023 and logical clock time 398.
+Internal event value 11 at global time Mon Mar  6 15:55:32 2023 and logical clock time 399.
+Received message "398" at global time Mon Mar  6 15:55:32 2023 and logical clock time 399. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:55:32 2023 and logical clock time 401.
+Internal event value 4 at global time Mon Mar  6 15:55:32 2023 and logical clock time 403.
+Received message "402" at global time Mon Mar  6 15:55:32 2023 and logical clock time 403. Message queue length: 0
+Internal event value 6 at global time Mon Mar  6 15:55:32 2023 and logical clock time 405.
+Internal event value 6 at global time Mon Mar  6 15:55:33 2023 and logical clock time 407.
+Received message "406" at global time Mon Mar  6 15:55:33 2023 and logical clock time 407. Message queue length: 0
+Received message "407" at global time Mon Mar  6 15:55:33 2023 and logical clock time 408. Message queue length: 0
+Received message "408" at global time Mon Mar  6 15:55:33 2023 and logical clock time 409. Message queue length: 0
+Received message "409" at global time Mon Mar  6 15:55:33 2023 and logical clock time 410. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:34 2023 and logical clock time 415.
+Internal event value 5 at global time Mon Mar  6 15:55:34 2023 and logical clock time 417.
+Internal event value 5 at global time Mon Mar  6 15:55:34 2023 and logical clock time 418.
+Received message "417" at global time Mon Mar  6 15:55:35 2023 and logical clock time 418. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:35 2023 and logical clock time 422.
+Internal event value 9 at global time Mon Mar  6 15:55:35 2023 and logical clock time 424.
+Received message "184" at global time Mon Mar  6 15:55:36 2023 and logical clock time 425. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:36 2023 and logical clock time 427.
+Internal event value 5 at global time Mon Mar  6 15:55:36 2023 and logical clock time 429.
+Internal event value 7 at global time Mon Mar  6 15:55:36 2023 and logical clock time 430.
+Internal event value 9 at global time Mon Mar  6 15:55:36 2023 and logical clock time 431.
+Internal event value 4 at global time Mon Mar  6 15:55:36 2023 and logical clock time 432.
+Internal event value 7 at global time Mon Mar  6 15:55:37 2023 and logical clock time 433.
+Internal event value 11 at global time Mon Mar  6 15:55:37 2023 and logical clock time 434.
+Received message "188" at global time Mon Mar  6 15:55:37 2023 and logical clock time 434. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:37 2023 and logical clock time 436.
+Received message "435" at global time Mon Mar  6 15:55:37 2023 and logical clock time 436. Message queue length: 0
+Internal event value 10 at global time Mon Mar  6 15:55:37 2023 and logical clock time 438.
+Received message "439" at global time Mon Mar  6 15:55:38 2023 and logical clock time 440. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:38 2023 and logical clock time 442.
+Internal event value 8 at global time Mon Mar  6 15:55:38 2023 and logical clock time 443.
+Internal event value 11 at global time Mon Mar  6 15:55:38 2023 and logical clock time 444.
+Internal event value 5 at global time Mon Mar  6 15:55:39 2023 and logical clock time 446.
+Internal event value 5 at global time Mon Mar  6 15:55:39 2023 and logical clock time 447.
+Internal event value 8 at global time Mon Mar  6 15:55:39 2023 and logical clock time 448.
+Internal event value 11 at global time Mon Mar  6 15:55:39 2023 and logical clock time 449.
+Internal event value 9 at global time Mon Mar  6 15:55:39 2023 and logical clock time 450.
+Internal event value 6 at global time Mon Mar  6 15:55:39 2023 and logical clock time 452.
+Internal event value 8 at global time Mon Mar  6 15:55:40 2023 and logical clock time 453.
+Internal event value 5 at global time Mon Mar  6 15:55:40 2023 and logical clock time 454.
+Internal event value 8 at global time Mon Mar  6 15:55:40 2023 and logical clock time 455.
+Internal event value 9 at global time Mon Mar  6 15:55:40 2023 and logical clock time 456.
+Internal event value 4 at global time Mon Mar  6 15:55:40 2023 and logical clock time 457.
+Received message "198" at global time Mon Mar  6 15:55:40 2023 and logical clock time 457. Message queue length: 0
+Internal event value 6 at global time Mon Mar  6 15:55:40 2023 and logical clock time 459.
+Internal event value 10 at global time Mon Mar  6 15:55:41 2023 and logical clock time 462.
+Received message "462" at global time Mon Mar  6 15:55:41 2023 and logical clock time 463. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:41 2023 and logical clock time 465.
+Internal event value 9 at global time Mon Mar  6 15:55:41 2023 and logical clock time 466.
+Internal event value 10 at global time Mon Mar  6 15:55:42 2023 and logical clock time 467.
+Internal event value 10 at global time Mon Mar  6 15:55:42 2023 and logical clock time 468.
+Internal event value 5 at global time Mon Mar  6 15:55:42 2023 and logical clock time 470.
+Internal event value 6 at global time Mon Mar  6 15:55:42 2023 and logical clock time 471.
+Internal event value 8 at global time Mon Mar  6 15:55:42 2023 and logical clock time 472.
+Internal event value 5 at global time Mon Mar  6 15:55:42 2023 and logical clock time 473.
+Received message "205" at global time Mon Mar  6 15:55:43 2023 and logical clock time 473. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:43 2023 and logical clock time 475.
+Internal event value 11 at global time Mon Mar  6 15:55:43 2023 and logical clock time 476.
+Internal event value 5 at global time Mon Mar  6 15:55:43 2023 and logical clock time 477.
+Received message "476" at global time Mon Mar  6 15:55:43 2023 and logical clock time 477. Message queue length: 0
+Received message "477" at global time Mon Mar  6 15:55:43 2023 and logical clock time 478. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:44 2023 and logical clock time 480.
+Received message "208" at global time Mon Mar  6 15:55:44 2023 and logical clock time 480. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:44 2023 and logical clock time 482.
+Received message "481" at global time Mon Mar  6 15:55:44 2023 and logical clock time 482. Message queue length: 0
+Received message "482" at global time Mon Mar  6 15:55:44 2023 and logical clock time 483. Message queue length: 0
+Received message "483" at global time Mon Mar  6 15:55:44 2023 and logical clock time 484. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:44 2023 and logical clock time 486.
+Internal event value 9 at global time Mon Mar  6 15:55:45 2023 and logical clock time 487.
+Received message "211" at global time Mon Mar  6 15:55:45 2023 and logical clock time 487. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:45 2023 and logical clock time 489.
+Internal event value 6 at global time Mon Mar  6 15:55:45 2023 and logical clock time 490.
+Internal event value 4 at global time Mon Mar  6 15:55:45 2023 and logical clock time 492.
+Received message "491" at global time Mon Mar  6 15:55:45 2023 and logical clock time 492. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:46 2023 and logical clock time 495.
+Internal event value 10 at global time Mon Mar  6 15:55:46 2023 and logical clock time 496.
+Internal event value 8 at global time Mon Mar  6 15:55:46 2023 and logical clock time 497.
+Internal event value 7 at global time Mon Mar  6 15:55:46 2023 and logical clock time 499.
+Received message "498" at global time Mon Mar  6 15:55:46 2023 and logical clock time 499. Message queue length: 0
+Received message "217" at global time Mon Mar  6 15:55:47 2023 and logical clock time 500. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:55:47 2023 and logical clock time 503.
+Internal event value 10 at global time Mon Mar  6 15:55:47 2023 and logical clock time 505.
+Internal event value 6 at global time Mon Mar  6 15:55:47 2023 and logical clock time 507.
+Internal event value 10 at global time Mon Mar  6 15:55:48 2023 and logical clock time 508.
+Received message "507" at global time Mon Mar  6 15:55:48 2023 and logical clock time 508. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:55:48 2023 and logical clock time 510.
+Internal event value 8 at global time Mon Mar  6 15:55:48 2023 and logical clock time 512.
+Received message "222" at global time Mon Mar  6 15:55:48 2023 and logical clock time 512. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:48 2023 and logical clock time 514.
+Internal event value 9 at global time Mon Mar  6 15:55:49 2023 and logical clock time 515.
+Internal event value 9 at global time Mon Mar  6 15:55:49 2023 and logical clock time 516.
+Internal event value 10 at global time Mon Mar  6 15:55:49 2023 and logical clock time 517.
+Internal event value 7 at global time Mon Mar  6 15:55:49 2023 and logical clock time 519.
+Received message "518" at global time Mon Mar  6 15:55:49 2023 and logical clock time 519. Message queue length: 0
+Received message "519" at global time Mon Mar  6 15:55:50 2023 and logical clock time 520. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:50 2023 and logical clock time 522.
+Internal event value 10 at global time Mon Mar  6 15:55:50 2023 and logical clock time 523.
+Internal event value 6 at global time Mon Mar  6 15:55:50 2023 and logical clock time 524.
+Internal event value 8 at global time Mon Mar  6 15:55:50 2023 and logical clock time 526.
+Internal event value 10 at global time Mon Mar  6 15:55:51 2023 and logical clock time 528.
+Internal event value 9 at global time Mon Mar  6 15:55:51 2023 and logical clock time 530.
+Received message "530" at global time Mon Mar  6 15:55:51 2023 and logical clock time 531. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:52 2023 and logical clock time 535.
+Internal event value 7 at global time Mon Mar  6 15:55:52 2023 and logical clock time 537.
+Internal event value 10 at global time Mon Mar  6 15:55:52 2023 and logical clock time 540.
+Received message "539" at global time Mon Mar  6 15:55:52 2023 and logical clock time 540. Message queue length: 0
+Internal event value 6 at global time Mon Mar  6 15:55:53 2023 and logical clock time 543.
+Internal event value 7 at global time Mon Mar  6 15:55:53 2023 and logical clock time 544.
+Internal event value 5 at global time Mon Mar  6 15:55:53 2023 and logical clock time 545.
+Internal event value 6 at global time Mon Mar  6 15:55:53 2023 and logical clock time 546.
+Internal event value 7 at global time Mon Mar  6 15:55:53 2023 and logical clock time 547.
+Internal event value 4 at global time Mon Mar  6 15:55:53 2023 and logical clock time 548.
+Internal event value 5 at global time Mon Mar  6 15:55:54 2023 and logical clock time 549.
+Internal event value 7 at global time Mon Mar  6 15:55:54 2023 and logical clock time 550.
+Received message "550" at global time Mon Mar  6 15:55:54 2023 and logical clock time 551. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:55:54 2023 and logical clock time 553.
+Received message "552" at global time Mon Mar  6 15:55:54 2023 and logical clock time 553. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:55:55 2023 and logical clock time 555.
+Internal event value 6 at global time Mon Mar  6 15:55:55 2023 and logical clock time 556.
+Internal event value 9 at global time Mon Mar  6 15:55:55 2023 and logical clock time 557.
+Internal event value 10 at global time Mon Mar  6 15:55:55 2023 and logical clock time 558.
+Internal event value 11 at global time Mon Mar  6 15:55:55 2023 and logical clock time 560.
+Internal event value 11 at global time Mon Mar  6 15:55:55 2023 and logical clock time 561.
+Internal event value 11 at global time Mon Mar  6 15:55:56 2023 and logical clock time 562.
+Internal event value 7 at global time Mon Mar  6 15:55:56 2023 and logical clock time 563.
+Internal event value 5 at global time Mon Mar  6 15:55:56 2023 and logical clock time 564.
+Internal event value 6 at global time Mon Mar  6 15:55:56 2023 and logical clock time 565.
+Internal event value 10 at global time Mon Mar  6 15:55:56 2023 and logical clock time 568.
+Received message "568" at global time Mon Mar  6 15:55:57 2023 and logical clock time 569. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:55:57 2023 and logical clock time 571.
+Internal event value 6 at global time Mon Mar  6 15:55:57 2023 and logical clock time 572.
+Internal event value 7 at global time Mon Mar  6 15:55:57 2023 and logical clock time 573.
+Internal event value 8 at global time Mon Mar  6 15:55:57 2023 and logical clock time 574.
+Internal event value 8 at global time Mon Mar  6 15:55:57 2023 and logical clock time 575.
+Internal event value 11 at global time Mon Mar  6 15:55:58 2023 and logical clock time 577.
+Internal event value 4 at global time Mon Mar  6 15:55:58 2023 and logical clock time 578.
+Internal event value 10 at global time Mon Mar  6 15:55:58 2023 and logical clock time 579.
+Internal event value 5 at global time Mon Mar  6 15:55:58 2023 and logical clock time 581.
+Internal event value 9 at global time Mon Mar  6 15:55:58 2023 and logical clock time 582.
+Internal event value 7 at global time Mon Mar  6 15:55:59 2023 and logical clock time 583.
+Internal event value 11 at global time Mon Mar  6 15:55:59 2023 and logical clock time 584.
+Internal event value 10 at global time Mon Mar  6 15:55:59 2023 and logical clock time 585.
+Internal event value 10 at global time Mon Mar  6 15:55:59 2023 and logical clock time 586.
+Internal event value 7 at global time Mon Mar  6 15:55:59 2023 and logical clock time 587.
+Internal event value 6 at global time Mon Mar  6 15:55:59 2023 and logical clock time 588.
+Received message "587" at global time Mon Mar  6 15:55:59 2023 and logical clock time 588. Message queue length: 0
+Internal event value 5 at global time Mon Mar  6 15:56:00 2023 and logical clock time 594.
+Internal event value 10 at global time Mon Mar  6 15:56:01 2023 and logical clock time 596.
+Internal event value 6 at global time Mon Mar  6 15:56:01 2023 and logical clock time 598.
+Internal event value 4 at global time Mon Mar  6 15:56:01 2023 and logical clock time 599.
+Internal event value 6 at global time Mon Mar  6 15:56:01 2023 and logical clock time 601.
+Received message "600" at global time Mon Mar  6 15:56:01 2023 and logical clock time 601. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:56:02 2023 and logical clock time 604.
+Internal event value 8 at global time Mon Mar  6 15:56:02 2023 and logical clock time 605.
+Internal event value 5 at global time Mon Mar  6 15:56:02 2023 and logical clock time 606.
+Internal event value 11 at global time Mon Mar  6 15:56:02 2023 and logical clock time 607.
+Internal event value 11 at global time Mon Mar  6 15:56:03 2023 and logical clock time 610.
+Internal event value 8 at global time Mon Mar  6 15:56:03 2023 and logical clock time 613.
+Internal event value 8 at global time Mon Mar  6 15:56:03 2023 and logical clock time 615.
+Internal event value 5 at global time Mon Mar  6 15:56:03 2023 and logical clock time 616.
+Internal event value 8 at global time Mon Mar  6 15:56:04 2023 and logical clock time 617.
+Internal event value 11 at global time Mon Mar  6 15:56:04 2023 and logical clock time 618.
+Received message "617" at global time Mon Mar  6 15:56:04 2023 and logical clock time 618. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:56:04 2023 and logical clock time 620.
+Internal event value 4 at global time Mon Mar  6 15:56:04 2023 and logical clock time 621.
+Internal event value 10 at global time Mon Mar  6 15:56:04 2023 and logical clock time 622.
+Received message "621" at global time Mon Mar  6 15:56:04 2023 and logical clock time 622. Message queue length: 0
+Received message "622" at global time Mon Mar  6 15:56:05 2023 and logical clock time 623. Message queue length: 0
+Internal event value 9 at global time Mon Mar  6 15:56:05 2023 and logical clock time 628.
+Internal event value 8 at global time Mon Mar  6 15:56:05 2023 and logical clock time 629.
+Internal event value 5 at global time Mon Mar  6 15:56:06 2023 and logical clock time 631.
+Received message "630" at global time Mon Mar  6 15:56:06 2023 and logical clock time 631. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:56:06 2023 and logical clock time 633.
+Internal event value 4 at global time Mon Mar  6 15:56:06 2023 and logical clock time 634.
+Received message "633" at global time Mon Mar  6 15:56:06 2023 and logical clock time 634. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:56:06 2023 and logical clock time 636.
+Received message "635" at global time Mon Mar  6 15:56:07 2023 and logical clock time 636. Message queue length: 0
+Internal event value 4 at global time Mon Mar  6 15:56:07 2023 and logical clock time 638.
+Internal event value 9 at global time Mon Mar  6 15:56:07 2023 and logical clock time 639.
+Internal event value 5 at global time Mon Mar  6 15:56:07 2023 and logical clock time 641.
+Internal event value 6 at global time Mon Mar  6 15:56:07 2023 and logical clock time 642.
+Internal event value 11 at global time Mon Mar  6 15:56:07 2023 and logical clock time 643.
+Internal event value 7 at global time Mon Mar  6 15:56:08 2023 and logical clock time 644.
+Received message "643" at global time Mon Mar  6 15:56:08 2023 and logical clock time 644. Message queue length: 0
+Received message "644" at global time Mon Mar  6 15:56:08 2023 and logical clock time 645. Message queue length: 0
+Internal event value 8 at global time Mon Mar  6 15:56:08 2023 and logical clock time 648.
+Internal event value 5 at global time Mon Mar  6 15:56:08 2023 and logical clock time 649.
+Internal event value 9 at global time Mon Mar  6 15:56:09 2023 and logical clock time 651.
+Received message "650" at global time Mon Mar  6 15:56:09 2023 and logical clock time 651. Message queue length: 0
+Internal event value 7 at global time Mon Mar  6 15:56:09 2023 and logical clock time 653.
+Internal event value 5 at global time Mon Mar  6 15:56:09 2023 and logical clock time 654.
+Internal event value 7 at global time Mon Mar  6 15:56:09 2023 and logical clock time 655.
+Internal event value 11 at global time Mon Mar  6 15:56:09 2023 and logical clock time 657.
+Internal event value 6 at global time Mon Mar  6 15:56:10 2023 and logical clock time 658.
+Internal event value 10 at global time Mon Mar  6 15:56:10 2023 and logical clock time 659.
+Internal event value 11 at global time Mon Mar  6 15:56:10 2023 and logical clock time 661.
+Internal event value 6 at global time Mon Mar  6 15:56:10 2023 and logical clock time 662.
+Internal event value 8 at global time Mon Mar  6 15:56:10 2023 and logical clock time 663.
+Internal event value 10 at global time Mon Mar  6 15:56:11 2023 and logical clock time 664.
+Internal event value 10 at global time Mon Mar  6 15:56:11 2023 and logical clock time 665.
+Received message "664" at global time Mon Mar  6 15:56:11 2023 and logical clock time 665. Message queue length: 0
+Received message "665" at global time Mon Mar  6 15:56:11 2023 and logical clock time 666. Message queue length: 0
+Internal event value 10 at global time Mon Mar  6 15:56:11 2023 and logical clock time 668.
+Internal event value 7 at global time Mon Mar  6 15:56:11 2023 and logical clock time 669.
+Received message "668" at global time Mon Mar  6 15:56:11 2023 and logical clock time 669. Message queue length: 0
+Internal event value 11 at global time Mon Mar  6 15:56:12 2023 and logical clock time 672.
+Internal event value 9 at global time Mon Mar  6 15:56:12 2023 and logical clock time 673.
