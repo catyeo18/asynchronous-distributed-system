@@ -33,11 +33,7 @@ class VirtualMachine:
       time.sleep(1 / self.clock_rate)
 
       # Test logging works
-      self.log(f"I am at time {self.clock}")
-
-      # TO CHANGE: currently only incrementing
-      # Update logical clock based on local events
-      self.clock += 1
+      # self.log(f"I am at time {self.clock}")
 
       # Process incoming messages
       if self.incoming_messages.empty():
@@ -45,22 +41,25 @@ class VirtualMachine:
         message = self.clock
         if generator == 1:
           self.send_message(0, message)
+          self.clock += 1
         elif generator == 2:
           self.send_message(1, message)
+          self.clock += 1
         elif generator == 3:
           self.send_message(0, message)
           self.send_message(1, message)
-        else:
-          # TODO: treat the cycle as an internal event; log the internal event
-          pass
-        # TODO: update it's own logical clock, update the log with the send, the system time, and the logical clock time
+          self.clock += 1
+        else: # internal event
+          self.clock += 1
+          self.log(f"Internal event value {generator} at global time {time.ctime(time.time())} and logical clock time {self.clock}.")
       else:
         message = self.incoming_messages.get()
         self.queue_size -= 1
         # print(message)
+
         # Log info
-        self.log(f"Received message \"{message}\" at global time {time.time()} and logical clock time {self.clock}. Message queue length: {self.queue_size}")
-        # Update clock
+        self.log(f"Received message \"{message}\" at global time {time.ctime(time.time())} and logical clock time {self.clock}. Message queue length: {self.queue_size}")
+        # Update clock (message receive event means need to consider max rule, not just clock + 1)
         self.update_clock(self.clock)
 
   def send_message(self, id, message):
