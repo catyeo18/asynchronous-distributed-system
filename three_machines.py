@@ -8,7 +8,7 @@ from multiprocessing import Process, Queue
 
 
 host = "127.0.0.1"
-port1 = 5603
+port1 = 5500
 port = [port1 + i for i in range(3)]
 sockets = []
 
@@ -109,6 +109,7 @@ class VirtualMachine:
     sending_thread = Thread(target = self.run, args = ())
     sending_thread.start()
 
+
 if __name__ == '__main__':
   vm = []
   p = []
@@ -123,17 +124,3 @@ if __name__ == '__main__':
 
   for i in range(3):
     p[i].join()
-
-
-  # Connect virtual machines
-  # vm1.connect("127.0.0.1", 5551)
-  # vm1.connect("127.0.0.1", 5552)
-  # vm2.connect("127.0.0.1", 5550)
-  # vm2.connect("127.0.0.1", 5552)
-  # vm3.connect("127.0.0.1", 5550)
-  # vm3.connect("127.0.0.1", 5551)
-
-  # Start virtual machines
-  # threading.Thread(target=vm1.run).start()
-  # threading.Thread(target=vm2.run).start()
-  # threading.Thread(target=vm3.run).start()
