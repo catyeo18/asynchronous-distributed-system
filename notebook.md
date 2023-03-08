@@ -20,16 +20,16 @@ But if we look at a more granular level, we observed that each machine on every 
 
 In contrast, in experimental run 1 (Figures 1-3), we see only two trendlines in each graph, suggesting that virtual machines 0 and 2 had the same clock rate. Virtual machines 0 and 2 received higher message values than their associated logic clock values, while virtual machine 1 received lower message values. The jumps in logical clock values were narrower in Figure 1 than Figure 2 (which was much sparser) and Figure 3.
 
-<img src="results/run1.png" width="80%">
+<img src="results/run1.png" width="50%">
 
 Figures 1-3 (top to bottom): Graphs for message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 1.
 
-<img src="results/run4.png" width="80%">
+<img src="results/run4.png" width="50%">
 
 Figures 4-6 (top to bottom): Graphs for message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 4, the run with the longest duration.
 
 We did not notice any patterns regarding the impact that different timings had on the message queue lengths; it may be hard for us to observe a pattern because our message queue length had low variance, as we see in Figure 7. 
 
-<img src="results/run4logicclock_vm0.png" width="75%">
+<img src="results/run4logicclock_vm0.png" width="50%">
 
 Figure 7: Graph for message queue length as compared to logic clock time for virtual machine 0 in experimental run 4.
