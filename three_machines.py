@@ -63,8 +63,11 @@ class VirtualMachine:
         self.update_clock(self.clock)
 
   def send_message(self, id, message):
-    self.connections[id].send(str(message).encode('ascii'))
-    print(f"Sending message {self.clock:n} from machine {self.id:n} to other machine #{id+1:n}.")
+    if len(self.connections) > 1:
+      self.connections[id].send(str(message).encode('ascii'))
+      print(f"Sending message {self.clock:n} from machine {self.id:n} to other machine #{id+1:n}.")
+    unit_test_check = (self.clock, self.id, id+1)
+    return unit_test_check
 
   def receive_message(self, connection):
     while True:
