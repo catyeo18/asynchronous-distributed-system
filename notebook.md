@@ -22,11 +22,11 @@ In contrast, in experimental run 1 (Figures 1-3), we see only two trendlines in 
 
 <img src="results/run1.png" width="50%">
 
-Figures 1-3 (top to bottom): Graphs for message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 1.
+Figures 1-3 (top to bottom): Graphs for received message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 1.
 
 <img src="results/run4.png" width="50%">
 
-Figures 4-6 (top to bottom): Graphs for message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 4, the run with the longest duration.
+Figures 4-6 (top to bottom): Graphs for received message and logic clock values over the course of global time, across 3 virtual machines (from top to bottom is virtual machine 0, 1, and 2 respectively) in experimental run 4, the run with the longest duration.
 
 We did not notice any patterns regarding the impact that different timings had on the message queue lengths; it may be hard for us to observe a pattern because our message queue length had low variance, as we see in Figure 7. 
 
