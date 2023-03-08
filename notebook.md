@@ -18,7 +18,7 @@ Note: if you look at our `/logs` - runs 1-5 only have message receiving in the l
 
 When we aggregated and plotted the results across the machines from each experimental run (Figures 1-6), we noticed that both the message values and the logic clock values displayed mostly linear patterns while containing gaps in their linear trendlines. 
 
-But if we look at a more granular level, we observed that each machine on every experimental run displayed different behavior. For example, in experimental run 4 (Figures 4-6), each graph displayed three trendlines - two message value trendlines (one for each of the other machines) and one logic clock value trendline. This meant that all three machines were operating at different clock rates. 
+But if we look at a more granular level, we observed that each machine on every experimental run displayed different behavior. For example, in experimental run 4 (Figures 4-6), each graph displayed three trendlines - two message value trendlines (one for each of the other machines) and one logic clock value trendline. This meant that all three machines were operating at different clock rates (machine 0 is fastest, machine 1 is slowest).
 
 In contrast, in experimental run 1 (Figures 1-3), we see only two trendlines in each graph, suggesting that virtual machines 0 and 2 had the same clock rate. Virtual machines 0 and 2 received higher message values than their associated logic clock values, while virtual machine 1 received lower message values. The jumps in logical clock values were narrower in Figure 1 than Figure 2 (which was much sparser) and Figure 3.
 
