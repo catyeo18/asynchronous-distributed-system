@@ -43,17 +43,17 @@ class VirtualMachine:
         message = self.clock
         if generator == 1:
           # Send message to first other machine
-          self.send_message(0, message)
           self.clock += 1
+          self.send_message(0, message)
         elif generator == 2:
           # Send message to first other machine
-          self.send_message(1, message)
           self.clock += 1
+          self.send_message(1, message)
         elif generator == 3:
           # Send message to both other machines
+          self.clock += 1
           self.send_message(0, message)
           self.send_message(1, message)
-          self.clock += 1
         else: 
           self.clock += 1
           # Log internal event
