@@ -5,17 +5,24 @@ from three_machines import VirtualMachine
 
 class UnitTests(unittest.TestCase):
   """
-  Test for two main components of three_machines.py:
-  1) messages are sending properly 
-  2) the clock is updating properly
-
-  We are unit testing the function logic, not whether the client-socket
-  connections are working, so we are isolating out the functions from the
-  main file here for unit testing.
+  Test for the main components of three_machines.py:
+  1. Initialization
+  2. Sending messages
+  3. Updating clock
   """
 
-  # This checks that send_message returns the right
-  # message value, machine sender id, machine receiver id
+  def test_constructor(self):
+    vm = VirtualMachine(0)
+    self.assertEqual(vm.id, 0)
+    self.assertEqual(vm.listening_socket, None)
+    assert vm.clock_rate >= 1 and vm.clock_rate <= 7
+    self.assertEqual(vm.clock, 0)
+    self.assertEqual(vm.incoming_messages.empty(), True)
+    self.assertEqual(vm.outgoing_messages, [])
+    self.assertEqual(vm.connections, [])
+    self.assertEqual(vm.log_file, None)
+    self.assertEqual(vm.queue_size, 0)
+
   def test_messages(self):
     vm1 = VirtualMachine(0)
     output = vm1.send_message(0, "")
@@ -30,6 +37,7 @@ class UnitTests(unittest.TestCase):
     self.assertEqual(vm1.clock, 3)
     vm1.update_clock(5)
     self.assertEqual(vm1.clock, 6)
+
 
 if __name__ == '__main__':
   print("Unit tests running!")
