@@ -72,7 +72,7 @@ class VirtualMachine:
     if len(self.connections) > 1:
       self.connections[id].send(str(message).encode('ascii'))
       print(f"Sending message {self.clock:n} from machine {self.id:n} to other machine #{id+1:n}.")
-      self.log(f"Sending message {self.clock:n} from machine {self.id:n} to other machine #{id+1:n}.")
+      self.log(f"Sending message \"{self.clock:n}\" at global time {time.ctime(time.time())} and logical clock time {self.clock} from machine {self.id:n} to other machine #{id+1:n}.")
     unit_test_check = (self.clock, self.id, id+1)
     return unit_test_check
 
