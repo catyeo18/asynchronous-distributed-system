@@ -1,9 +1,9 @@
 # Engineering Notebook
 
 ## Part 1: Design
-Instead of the producer/consumer structure that we were advised to follow in lab, we constructed a `VirtualMachine` class that had internal methods to initialize the machine, send messages, receive messages, connect, update the Lamport clock, and write to a log file for that machine. This yielded the added benefits of neither needing to store global data structures nor using pairwise buffers.
+To implement the producer and consumer structure underlying the lab, we constructed a `VirtualMachine` class that had internal methods to initialize the machine, send messages, receive messages, connect, update the Lamport clock, and write to a log file for that machine. This yielded the added benefits of neither needing to store global data structures nor using pairwise buffers.
 
-We chose to store incoming messages in a `Queue` object from the `multiprocessing` package, because its existing `put` and `get` functionalities made it easy for what we wanted to achieve. 
+For each machine, we chose to store incoming messages in a `Queue` object from the `multiprocessing` package, since we could then take advantage of its existing `put` and `get` functionalities. We then initialized a listening thread for each machine, which would receive messages and store them in its corresponding queue. This allowed us to avoid storing the incoming messages in a global queue, since that approach would be less scalable due to potentially large overhead. We then started a connection from each machine to each of the other machine's listening threads. Finally, we had a second thread for each machine that constantly implemented the casework specified in the design exercise, at the clock rate randomly generated for the machine. 
 
 ## Part 2: Experimental Analysis
 
