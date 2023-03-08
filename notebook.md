@@ -9,7 +9,9 @@ We chose to store incoming messages in a `Queue` object from the `multiprocessin
 
 ### Procedure
 
-We ran our code 5 times, each run lasting a random duration between 1-3 minutes. Then, we converted our text logs from each machine per run into data to parse. We cleaned the data to identify its numerical values that we were interested in - primarily logical clock, system clock, message value, and message queue length - to conduct our analysis below.
+We ran our code 10 times, each run lasting a random duration between 1-3 minutes. Then, we converted our text logs from each machine per run into data to parse. We cleaned the data to identify its numerical values that we were interested in - primarily logical clock, system clock, message value, and message queue length - to conduct our analysis below.
+
+Note: if you look at our `/logs` - runs 1-5 only have message receiving in the logs, while runs 6-10 also include the message sending lines in the logs. In our discussion we primarily examine patterns from the messages each machine received because we found that more interesting.
 
 ### Results and Reflections
  <!-- discuss (in the lab book) the size of the jumps in the values for the logical clocks, drift in the values of the local logical clocks in the different machines (you can get a god’s eye view because of the system time), and the impact different timings on such things as gaps in the logical clock values and length of the message queue.  -->
